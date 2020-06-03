@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+
+## attributes
+* **tough cookie**
+* *curious*
+* *innovative*
+* authentic
+
+## programming languages
+C#, C/C++, Java, Python, PHP, SQL, Lua, Matlab
+
+## programming industrial robot arms
+**Epson**, **UR**, *Mitsubishi*, *DoBot M1*, Horst, Kuka, Doosan
